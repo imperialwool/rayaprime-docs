@@ -10,32 +10,32 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: 'Простота',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Команды всегда стараются быть максимально простыми и интуитивными,
+        чтобы пользователи могли легко разобраться в функционале.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Удобство',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Каждая команда старается быть продуманной до мелочей, чтобы она
+        была максимально удобной для большинства пользователей.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Быстрота',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Мощный сервер, большая скорость интернета и быстрый язык
+        программирования обеспечивают максимальную скорость работы бота.
       </>
     ),
   },
@@ -59,6 +59,9 @@ export default function HomepageFeatures(): JSX.Element {
   return (
     <section className={styles.features}>
       <div className="container">
+        <Heading as="h2" className="text--center">
+          Преимущества
+        </Heading>
         <div className="row">
           {FeatureList.map((props, idx) => (
             <Feature key={idx} {...props} />

@@ -1,25 +1,22 @@
 ---
 slug: welcome
-title: Welcome
-authors: [slorber, yangshun]
-tags: [facebook, hello, docusaurus]
+title: Hello, world!
+authors: [imperialwool]
+tags: [hello, docusaurus]
 ---
 
-[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).
+**Ку-ку всем!** 
 
-Simply add Markdown files (or folders) to the `blog` directory.
+Я не знаю, что сюда писать, но не буду вырезать функционал из нового "движка сайта".
 
-Regular blog authors can be added to `authors.yml`.
+Если вкратце, теперь сайт работает на силе [Docusaurus](https://docusaurus.io).
 
-The blog post date can be extracted from filenames, such as:
+Он позволит мне очень просто написать любую документацию и любые ньюансы прямо в Markdown файлы.
 
-- `2019-05-30-welcome.md`
-- `2019-05-30-welcome/index.md`
+Раньше сайт был написан вручную с нуля, используя Python, Jinja2 и CSS-библиотеки.
+Смотря на обилие простых шаблонов для различных вещей, невольно задумываюсь изучить Astro, например!
+Сайты на нём очень быстрые, и очень простые. А шаблоны очень красивые.
 
-A blog post folder can be convenient to co-locate blog post images:
+Держите динозавриков и не теряйтесь!
 
 ![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)
-
-The blog supports tags as well!
-
-**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config.
