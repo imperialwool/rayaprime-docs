@@ -1,6 +1,6 @@
 # Профиль
 
-![](https://img.shields.io/badge/тип_команды-развлекательная-blue)
+![](https://img.shields.io/badge/тип_команды-развлекательная-blue?style=for-the-badge)
 
 ## Вызов команды
 
