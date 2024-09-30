@@ -1,3 +1,9 @@
+---
+title: Выбор валюты
+description: Выбор игровой валюты
+tags: [выбор, валюты, развлекательная, развлекательные, полезная, полезные, амино, amino, команда, команды]
+---
+
 # Выбор валюты
 
 ![](https://img.shields.io/badge/тип_команды-развлекательная-blue?style=for-the-badge) ![deprecated](https://img.shields.io/badge/скоро%20будет%20убрано-darkred?style=for-the-badge)

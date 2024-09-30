@@ -1,3 +1,9 @@
+---
+title: Язык
+description: Смена языка для чата или сообщества
+tags: [язык, смена, полезная, полезные, амино, amino, команда, команды]
+---
+
 # Язык
 
 ![](https://img.shields.io/badge/тип_команды-полезная-lightblue?style=for-the-badge) ![not ready](https://img.shields.io/badge/не%20готово-darkred?style=for-the-badge)

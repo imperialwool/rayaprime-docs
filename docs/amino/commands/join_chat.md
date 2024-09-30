@@ -1,3 +1,9 @@
+---
+title: Вход в чат
+description: Вход Райи в чат
+tags: [вход, чат, полезная, полезные, амино, amino, команда, команды]
+---
+
 # Вход в чат
 
 ![](https://img.shields.io/badge/тип_команды-полезная-lightblue?style=for-the-badge)

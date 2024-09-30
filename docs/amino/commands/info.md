@@ -1,3 +1,9 @@
+---
+title: Инфо
+description: Помогите
+tags: [инфо, полезная, полезные, информация, амино, amino, команда, команды]
+---
+
 # Инфо
 
 ![](https://img.shields.io/badge/тип_команды-информация-slateblue?style=for-the-badge)
