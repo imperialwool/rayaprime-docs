@@ -1,6 +1,6 @@
 # Вход в чат
 
-![](https://img.shields.io/badge/тип_команды-полезные-lightblue?style=for-the-badge)
+![](https://img.shields.io/badge/тип_команды-полезная-lightblue?style=for-the-badge)
 
 ## Вызов команды
 

@@ -1,4 +1,4 @@
-# Профиль
+# Инфо
 
 ![](https://img.shields.io/badge/тип_команды-информация-slateblue?style=for-the-badge)
 

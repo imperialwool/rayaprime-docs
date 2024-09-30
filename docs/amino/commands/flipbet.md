@@ -1,4 +1,4 @@
-# Кубзино
+# Флипбет
 
 ![](https://img.shields.io/badge/тип_команды-игра-mediumblue?style=for-the-badge)
 
