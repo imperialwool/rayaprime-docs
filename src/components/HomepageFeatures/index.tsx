@@ -30,11 +30,11 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: 'Быстрота',
+    title: 'Скорость',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Мощный сервер, большая скорость интернета и быстрый язык
+        Мощный сервер, высокая скорость интернета и быстрый язык
         программирования обеспечивают максимальную скорость работы бота.
       </>
     ),
